@@ -8,3 +8,5 @@ edition = "2021"
 [dependencies]
 notify-rust = "4"
 chrono = "0.4"
+rodio = "0.17.3"
+symphonia = "0.5.2"
